@@ -24,6 +24,8 @@ _Get started using GitHub in less than an hour._
   Encourage users to open new tabs for steps!
 -->
 
+![doge](./doge.jpg)
+
 ## Step 1: Create a branch
 
 _Welcome to "Introduction to GitHub"! :wave:_
@@ -42,6 +44,8 @@ Branches allow you to separate your work from the `main` branch. In other words,
 ![profile-readme-example](/images/profile-readme-example.png)
 
 ### :keyboard: Activity: Your first branch
+
+![doge](./doge.jpg)
 
 1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
 2. Navigate to the **< > Code** tab in the header menu of your repository.
@@ -70,6 +74,8 @@ Branches allow you to separate your work from the `main` branch. In other words,
 -->
 
 ---
+
+![doge](./doge.jpg)
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
